@@ -2,7 +2,11 @@
 <h3 align="center">💻 A passionate Web Developer & Problem Solver from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%7C+Java+Programmer;Always+Learning+New+Things" />
+  <img src="https://komarev.com/ghpvc/?username=abhijitpavse&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitpavse" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+Developer;Python+%7C+Java+Programmer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -16,7 +20,19 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and Tools
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
