@@ -61,7 +61,7 @@
 - 📝 **Portfolio Website** – My personal portfolio built with HTML, CSS, JS  
 - ✅ **To-Do List App** – Manage tasks with localStorage  
 - 🛒 **Product Listing Page** – With filtering & sorting features  
-- 🔗 More projects on [My Repositories](https://github.com/abhijitpavse?tab=repositories)
+- 🔗 More projects on [My Repositories](https://github.com/abhijitpavse?tab=repositories).
 
 ---
 
