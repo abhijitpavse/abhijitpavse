@@ -27,13 +27,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijitpavse&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight" height="180px"/>
