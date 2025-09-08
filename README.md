@@ -22,46 +22,43 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,figma,matlab" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijitpavse&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitpavse&theme=tokyonight" alt="GitHub Streak Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitpavse&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
 ### 🌟 Projects
-🚀 Here are some of my favorite projects:  
+🚀 Some of my favorite projects:  
 - 📝 **Portfolio Website** – My personal portfolio built with HTML, CSS, JS  
 - ✅ **To-Do List App** – Manage tasks with localStorage  
 - 🛒 **Product Listing Page** – With filtering & sorting features  
-- 🔗 More projects on [My Repositories](https://github.com/abhijitpavse?tab=repositories).
+- 🔗 More projects on [My Repositories](https://github.com/abhijitpavse?tab=repositories)
+
+---
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/abhijitpavse/abhijitpavse/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
