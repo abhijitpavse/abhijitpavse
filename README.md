@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+Developer;Python+%7C+Java+Programmer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+Developer;Python+%7C+Java+Programmer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -29,12 +29,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitpavse&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight" height="180px" alt="GitHub Streak Stats"/>
 </p>
 
 ---
