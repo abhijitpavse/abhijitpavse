@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,figma,matlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,figma,matlab,vscode,anaconda" />
 </p>
 
 ---
