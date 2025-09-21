@@ -20,9 +20,16 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧑‍💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,figma,matlab,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+</p>
+
+---
+
+### 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,matlab,vscode,anaconda" />
 </p>
 
 ---
