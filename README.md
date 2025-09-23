@@ -69,5 +69,7 @@
 ⭐️ From [Abhijit Pavse](https://github.com/abhijitpavse)
 
 
-https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/output/snake.svg
-
+### 🐍 Watch Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/output/snake.svg" alt="Snake animation" />
+</p>
