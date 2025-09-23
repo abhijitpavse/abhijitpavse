@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # allow manual trigger
   push:
     branches:
-      - main # runs when code is pushed to main
+      - main
 
 jobs:
   generate:
@@ -19,8 +19,9 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: abhijitpavse
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=purple&color_dots=#ffffff,#00ff00,#00cc00,#009900
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
