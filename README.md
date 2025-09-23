@@ -67,3 +67,6 @@
 ---
 
 ⭐️ From [Abhijit Pavse](https://github.com/abhijitpavse)
+
+
+![Snake animation](https://github.com/abhijitpavse/abhijitpavse/blob/output/snake.svg)
