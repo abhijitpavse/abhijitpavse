@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,c++,sql,python,java" />
 </p>
 
 ---
@@ -79,11 +79,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitpavse&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijitpavse&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/f06292/github.png" alt="GitHub Logo" width="70" />
-</p>
