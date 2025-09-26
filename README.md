@@ -22,8 +22,9 @@
 
 ### 🧑‍💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,c++,sql,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,mysql,python,java" />
 </p>
+
 
 ---
 
