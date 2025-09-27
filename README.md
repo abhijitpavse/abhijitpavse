@@ -55,7 +55,7 @@
 
   <!-- Perplexity AI -->
   <a href="https://www.perplexity.ai" target="_blank">
-    <img src="https://seeklogo.com/images/P/perplexity-ai-logo-5765E3B159-seeklogo.com.png" alt="Perplexity AI" width="70" />
+    <img src="https://images.seeklogo.com/logo-png/51/1/perplexity-ai-logo-png_seeklogo-517845.png" alt="Perplexity AI" width="70" />
   </a>
 
 </p>
