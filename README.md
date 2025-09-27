@@ -35,33 +35,6 @@
 
 ---
 
-### 🚀 MY GCCP 😀
-<p align="center">
-
-  <!-- Gemini -->
-  <a href="https://gemini.google.com" target="_blank">
-    <img src="https://www.gstatic.com/lamda/images/gemini_logo.svg" alt="Gemini" width="70" />
-  </a>
-
-  <!-- ChatGPT -->
-  <a href="https://chat.openai.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="70" />
-  </a>
-
-  <!-- Claude -->
-  <a href="https://claude.ai" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/122835347?s=200&v=4" alt="Claude" width="70" />
-  </a>
-
-  <!-- Perplexity AI -->
-  <a href="https://www.perplexity.ai" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/51/1/perplexity-ai-logo-png_seeklogo-517845.png" alt="Perplexity AI" width="70" />
-  </a>
-
-</p>
-
-
----
 
 ### 📊 GitHub Analytics
 <p align="center">
