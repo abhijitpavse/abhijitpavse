@@ -40,25 +40,26 @@
 
   <!-- Gemini -->
   <a href="https://gemini.google.com" target="_blank">
-    <img src="https://img.icons8.com/color/96/google-logo.png" alt="Gemini" width="60" />
+    <img src="https://www.gstatic.com/lamda/images/gemini_logo.svg" alt="Gemini" width="70" />
   </a>
 
   <!-- ChatGPT -->
   <a href="https://chat.openai.com" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" alt="ChatGPT" width="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="70" />
   </a>
 
   <!-- Claude -->
   <a href="https://claude.ai" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" alt="Claude" width="90" />
+    <img src="https://avatars.githubusercontent.com/u/122835347?s=200&v=4" alt="Claude" width="70" />
   </a>
 
   <!-- Perplexity AI -->
   <a href="https://www.perplexity.ai" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Perplexity_AI_Logo.png/512px-Perplexity_AI_Logo.png" alt="Perplexity AI" width="60" />
+    <img src="https://seeklogo.com/images/P/perplexity-ai-logo-5765E3B159-seeklogo.com.png" alt="Perplexity AI" width="70" />
   </a>
 
 </p>
+
 
 ---
 
