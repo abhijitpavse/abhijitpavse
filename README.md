@@ -43,8 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="https://your-vercel-app.vercel.app/api?user=abhijitpavse&theme=tokyonight&hide_border=false&cache_seconds=1" height="180px" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&hide_border=false&cache_seconds=30" height="180px" alt="GitHub Streak Stats"/>
 </p>
+
 
 
 
