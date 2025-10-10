@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://abhijit-streak.vercel.app?user=abhijitpavse&theme=tokyonight&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
+  <img src="https://your-vercel-app.vercel.app/api?user=abhijitpavse&theme=tokyonight&hide_border=false&cache_seconds=1" height="180px" alt="GitHub Streak Stats"/>
 </p>
 
 
