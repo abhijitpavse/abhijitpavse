@@ -44,7 +44,7 @@
 
 ### 🔥 GitHub Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats-seven.vercel.app?user=abhijitpavse&theme=tokyonight&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
 </p>
 
 
