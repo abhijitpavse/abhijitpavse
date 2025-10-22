@@ -79,8 +79,4 @@
   <img src="https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/output/snake.svg" alt="Snake animation" />
 </p>
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitpavse&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
 
