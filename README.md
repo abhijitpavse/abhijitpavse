@@ -36,21 +36,34 @@
 ---
 
 
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
-### 🔥 GitHub Streak Stats
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
 </p>
+
+---
 
 <p align="center">
   <a href="https://abhijitpavse.github.io/dino-runner-game/">
