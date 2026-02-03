@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Pavse</h1>
 <h3 align="center">💻 A passionate Web Developer & Problem Solver from India</h3>
 
-👉 **[▶️ PLAY NOW](https://abhijitpavse.github.io/dino-runner-game/)**
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhijitpavse&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitpavse" />
 </p>
@@ -39,15 +37,27 @@
 
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
-### 🔥 GitHub Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
+
+### 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <a href="https://abhijitpavse.github.io/dino-runner-game/" target="_blank" 
+     style="font-size:22px; font-weight:700; text-decoration:none;">
+    👉 PLAY DINO 🦖 ▶️
+  </a>
+</p>
+
 
 
 
