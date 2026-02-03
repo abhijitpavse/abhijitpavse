@@ -51,12 +51,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak Stats" />
 </p>
+
 <p align="center">
-  <a href="https://abhijitpavse.github.io/dino-runner-game/" target="_blank" 
-     style="font-size:22px; font-weight:700; text-decoration:none;">
-    👉 PLAY DINO 🦖 ▶️
+  <a href="https://abhijitpavse.github.io/dino-runner-game/">
+    <img src="https://img.shields.io/badge/PLAY-DINO%20GAME%20🦖-brightgreen?style=for-the-badge" alt="Play Dino Game">
   </a>
 </p>
+
 
 
 
