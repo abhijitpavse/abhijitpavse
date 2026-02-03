@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijit Pavse</h1>
 <h3 align="center">💻 A passionate Web Developer & Problem Solver from India</h3>
 
+👉 **[▶️ PLAY NOW](https://abhijitpavse.github.io/dino-runner-game/)**
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhijitpavse&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitpavse" />
 </p>
