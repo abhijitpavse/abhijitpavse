@@ -1,108 +1,91 @@
-<h1 align="center">Hi 👋, I'm Abhijit Pavse</h1>
-<h3 align="center">💻 A passionate Web Developer & Problem Solver from India</h3>
+<h1 align="center">Hi, I'm Abhijit Pavse 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijitpavse&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitpavse" />
+📍 Mumbai, India &nbsp;|&nbsp; 📊 Data Analyst Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+Developer;Python+%7C+Java+Programmer;Always+Learning+New+Things" />
+  <a href="https://github.com/abhijitpavse">
+    <img src="https://komarev.com/ghpvc/?username=abhijitpavse&label=Profile%20views&color=0e75b6&style=flat"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%26+Building"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Web Development Projects**  
-- 🌱 Learning **Java, Python, and Full-Stack Concepts**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Python, Java, Web Performance, Responsive UI**  
-- ⚡ Fun fact: *I love coding while listening to music 🎧*  
+### 🧠 About Me
+- 📊 Focused on **Data Analysis & Data Science**
+- 🐍 Working with **Python, SQL & Data Visualization**
+- 📈 Interested in **Real-world Data Projects & Insights**
+- 🤝 Open to collaborating on **Data-driven projects**
+- ⚡ I enjoy turning raw data into meaningful stories
 
 ---
 
 ### 🧑‍💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,mysql,python,java" />
+  <img src="https://img.shields.io/badge/HTML-111?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-111?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-111?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
 </p>
-
 
 ---
 
 ### 🛠️ Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,matlab,vscode,anaconda" />
+  <img src="https://img.shields.io/badge/Git-111?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Figma-111?style=flat&logo=figma"/>
+  <img src="https://img.shields.io/badge/MATLAB-111?style=flat&logo=mathworks"/>
+  <img src="https://img.shields.io/badge/VSCode-111?style=flat&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Anaconda-111?style=flat&logo=anaconda"/>
+  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
 </p>
 
 ---
 
+### 🚀 Projects
+📌 Latest projects automatically updated:
 
----
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhijitpavse&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpavse&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=abhijitpavse&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Streak"
-  />
-</p>
-
----
+🔗 More projects on  
+👉 <a href="https://github.com/abhijitpavse?tab=repositories">My Repositories</a>
 
 <p align="center">
   <a href="https://abhijitpavse.github.io/dino-runner-game/">
-    <img src="https://img.shields.io/badge/PLAY-DINO%20GAME%20🦖-brightgreen?style=for-the-badge" alt="Play Dino Game">
+    <img src="https://img.shields.io/badge/PLAY-DINO%20GAME%20🦖-brightgreen?style=for-the-badge"/>
   </a>
 </p>
-
-
-
-
-
-
-
----
-
-### 🌟 Projects
-🚀 Some of my favorite projects:  
-- 📝 **Portfolio Website** – My personal portfolio built with HTML, CSS, JS  
-- ✅ **To-Do List App** – Manage tasks with localStorage  
-- 🛒 **Product Listing Page** – With filtering & sorting features  
-- 🔗 More projects on [My Repositories](https://github.com/abhijitpavse?tab=repositories)
 
 ---
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/abhijitpavse" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abhijeetpavse7570@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/abhijitpavse"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abhijitpavse">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:abhijeetpavse7570@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/abhijitpavse">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-⭐️ From [Abhijit Pavse](https://github.com/abhijitpavse)
+⭐️ From Abhijit Pavse
 
+---
 
 ### 🐍 Watch Contributions Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/output/snake.svg"/>
 </p>
-
-
