@@ -2,24 +2,26 @@ name: Update README with latest repos
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 VERY IMPORTANT (fixes failure)
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Update README
-        uses: anmol098/github-repo-stats@master
+      - name: Update README with repos
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          GH_USERNAME: abhijitpavse
+          comment_tag_name: "repos"
+          feed_list: "https://github.com/abhijitpavse.atom"
+          max_post_count: 5
 
       - name: Commit changes
         run: |
