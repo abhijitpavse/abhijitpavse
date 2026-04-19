@@ -2,27 +2,29 @@ name: Update README with latest repos
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 VERY IMPORTANT (fixes failure)
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Update README with latest repos
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Update README
+        uses: anmol098/github-repo-stats@master
         with:
-          comment_tag_name: "repos"
-          feed_list: "https://github.com/abhijitpavse.atom"
-          max_post_count: 5
+          GH_USERNAME: abhijitpavse
 
       - name: Commit changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "github-actions"
           git add .
-          git commit -m "Updated README with latest repos" || echo "No changes"
+          git commit -m "Update README" || echo "No changes"
           git push
