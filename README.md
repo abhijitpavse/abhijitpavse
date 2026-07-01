@@ -25,26 +25,46 @@
 
 ---
 
-### 🧑‍💻 Languages  
+### 🧑‍💻 Languages & Core Technologies
+
 <p align="center">
+  <!-- Data Analysis -->
+  <img src="https://img.shields.io/badge/Python-111?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
+
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk"/>
   <img src="https://img.shields.io/badge/HTML-111?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-111?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/Python-111?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
 </p>
 
 ---
 
-### 🛠️ Tools  
+### 🛠️ Data Libraries & Tools
+
 <p align="center">
+
+  <!-- Python Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111?style=flat&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Seaborn-111?style=flat"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-111?style=flat&logo=scikitlearn"/>
+
+  <!-- BI & Database -->
+  <img src="https://img.shields.io/badge/Power%20BI-111?style=flat&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
+
+  <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Git-111?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Figma-111?style=flat&logo=figma"/>
-  <img src="https://img.shields.io/badge/MATLAB-111?style=flat&logo=mathworks"/>
   <img src="https://img.shields.io/badge/VSCode-111?style=flat&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Anaconda-111?style=flat&logo=anaconda"/>
-  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Figma-111?style=flat&logo=figma"/>
+  <img src="https://img.shields.io/badge/MATLAB-111?style=flat&logo=mathworks"/>
+
 </p>
 
 ---
