@@ -54,6 +54,37 @@
 > Automatically updated every 6 hours.
 
 <!--START_SECTION:repos-->
+
+### 📦 [Customer-Shopping-Behavior-Analysis-using-Python-PostgreSQL-Power-BI](https://github.com/abhijitpavse/Customer-Shopping-Behavior-Analysis-using-Python-PostgreSQL-Power-BI)
+
+No description
+
+**Language:** `Jupyter Notebook`
+
+⭐ 1 | 🍴 0
+
+---
+
+### 📦 [ES-Hotel-management-system](https://github.com/abhijitpavse/ES-Hotel-management-system)
+
+No description
+
+**Language:** `TypeScript`
+
+⭐ 0 | 🍴 0
+
+---
+
+### 📦 [dino-runner-game](https://github.com/abhijitpavse/dino-runner-game)
+
+No description
+
+**Language:** `HTML`
+
+⭐ 0 | 🍴 0
+
+---
+
 <!--END_SECTION:repos-->
 
 🔗 More projects on  
