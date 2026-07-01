@@ -49,8 +49,9 @@
 
 ---
 
-### 🚀 Projects
-📌 Latest projects automatically updated:
+### 🚀 Latest Projects
+
+> Automatically updated every 6 hours.
 
 <!--START_SECTION:repos-->
 <!--END_SECTION:repos-->
