@@ -111,8 +111,8 @@ No description
 👉 <a href="https://github.com/abhijitpavse?tab=repositories">My Repositories</a>
 
 <p align="center">
-  <a href="https://abhijitpavse.github.io/dino-runner-game/">
-    <img src="https://img.shields.io/badge/PLAY-DINO%20GAME%20🦖-brightgreen?style=for-the-badge"/>
+  <a href="https://abhijitpavse.github.io/ABHI-RUN/">
+    <img src="https://img.shields.io/badge/🏃%20PLAY-ABHI%20RUN-00C853?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
