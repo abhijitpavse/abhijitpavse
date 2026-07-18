@@ -75,16 +75,6 @@
 
 <!--START_SECTION:repos-->
 
-### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
-
-No description
-
-**Language:** `Not specified`
-
-⭐ 0 | 🍴 0
-
----
-
 ### 📦 [ABHI-RUN](https://github.com/abhijitpavse/ABHI-RUN)
 
 No description
@@ -92,6 +82,16 @@ No description
 **Language:** `HTML`
 
 ⭐ 1 | 🍴 0
+
+---
+
+### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
+
+No description
+
+**Language:** `Python`
+
+⭐ 0 | 🍴 0
 
 ---
 
