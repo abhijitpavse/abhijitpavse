@@ -1,4 +1,12 @@
-<h1 align="center">Hi, I'm Abhijit Pavse 👋</h1>
+<kbd>Hi, I'm Abhijit 👋</kbd>
+
+<kbd>Data Engineering • AI • Analytics</kbd>
+
+<kbd>Turning raw data into meaningful insights and real-world solutions.</kbd>
+
+<kbd>Python • SQL • PostgreSQL • Power BI • Pandas • NumPy</kbd>
+
+<kbd>Reach me via 🔗 <a href="https://www.linkedin.com/in/abhijitpavse/">LinkedIn</a> • <a href="https://github.com/abhijitpavse">GitHub</a></kbd>
 
 <p align="center">
 📍 Mumbai, India &nbsp;|&nbsp; 📊 Data Analyst Enthusiast
