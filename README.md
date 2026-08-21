@@ -1,3 +1,5 @@
+# Hi, I'm Abhijit 👋
+
 <kbd>Hi, I'm Abhijit 👋</kbd>
 
 <kbd>Data Engineering • AI • Analytics</kbd>
@@ -24,48 +26,61 @@
 
 ---
 
-### 🧠 About Me
-- 📊 Focused on **Data Analysis & Data Science**
-- 🐍 Working with **Python, SQL & Data Visualization**
-- 📈 Interested in **Real-world Data Projects & Insights**
-- 🤝 Open to collaborating on **Data-driven projects**
-- ⚡ I enjoy turning raw data into meaningful stories
+## 🧠 About Me
+
+* 📊 Focused on **Data Analysis, Data Engineering & Data Science**
+* 🐍 Working with **Python, SQL & Data Visualization**
+* 📈 Interested in **real-world data projects, analytics & business insights**
+* 🗄️ Exploring **databases, data processing & business intelligence**
+* 🤝 Open to collaborating on **data-driven projects**
+* ⚡ I enjoy turning **raw data into meaningful stories and insights**
 
 ---
 
-### 🧑‍💻 Languages & Core Technologies
+## 🧑‍💻 Languages & Core Technologies
 
 <p align="center">
-  <!-- Data Analysis -->
+
   <img src="https://img.shields.io/badge/Python-111?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
-
-  <!-- Programming -->
   <img src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk"/>
   <img src="https://img.shields.io/badge/HTML-111?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-111?style=flat&logo=css3"/>
+
 </p>
 
 ---
 
-### 🛠️ Data Libraries & Tools
+## 📊 Data Analytics, BI & Libraries
 
 <p align="center">
 
-  <!-- Python Libraries -->
+  <!-- Python Data Libraries -->
+
   <img src="https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111?style=flat&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111?style=flat&logo=matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-111?style=flat"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-111?style=flat&logo=scikitlearn"/>
 
-  <!-- BI & Database -->
+  <!-- Business Intelligence -->
+
   <img src="https://img.shields.io/badge/Power%20BI-111?style=flat&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-111?style=flat&logo=microsoftexcel"/>
+
+  <!-- Databases -->
+
   <img src="https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql"/>
 
-  <!-- Development Tools -->
+</p>
+
+---
+
+## 🛠️ Development & Productivity Tools
+
+<p align="center">
+
   <img src="https://img.shields.io/badge/Git-111?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github"/>
   <img src="https://img.shields.io/badge/VSCode-111?style=flat&logo=visualstudiocode"/>
@@ -77,7 +92,7 @@
 
 ---
 
-### 🚀 Latest Projects
+## 🚀 Latest Projects
 
 > Automatically updated every 6 hours.
 
@@ -115,8 +130,12 @@ No description
 
 <!--END_SECTION:repos-->
 
-🔗 More projects on  
+🔗 More projects on
 👉 <a href="https://github.com/abhijitpavse?tab=repositories">My Repositories</a>
+
+---
+
+## 🏃 Featured Project — ABHI RUN
 
 <p align="center">
   <a href="https://abhijitpavse.github.io/ABHI-RUN/">
@@ -124,19 +143,34 @@ No description
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/abhijitpavse/ABHI-RUN">
+    🎮 View Source Code
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://abhijitpavse.github.io/ABHI-RUN/">
+    ▶️ Play ABHI RUN
+  </a>
+</p>
+
 ---
 
-### 🌍 Connect with Me
+## 🌍 Connect with Me
+
 <p align="center">
+
   <a href="https://linkedin.com/in/abhijitpavse">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:abhijeetpavse7570@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://github.com/abhijitpavse">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
+
 </p>
 
 ---
@@ -145,7 +179,8 @@ No description
 
 ---
 
-### 🐍 Watch Contributions Snake
+## 🐍 Watch Contributions Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/output/snake.svg"/>
 </p>
