@@ -98,23 +98,23 @@
 
 <!--START_SECTION:repos-->
 
-### 📦 [telco-customer-churn-analysis](https://github.com/abhijitpavse/telco-customer-churn-analysis)
-
-End-to-end telecom customer churn analysis using Python, EDA, customer segmentation and machine learning to identify churn patterns and actionable retention insights.
-
-**Language:** `Jupyter Notebook`
-
-⭐ 0 | 🍴 0
-
----
-
 ### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
 
 No description
 
 **Language:** `Python`
 
-⭐ 0 | 🍴 0
+⭐ 1 | 🍴 0
+
+---
+
+### 📦 [telco-customer-churn-analysis](https://github.com/abhijitpavse/telco-customer-churn-analysis)
+
+End-to-end telecom customer churn analysis using Python, EDA, customer segmentation and machine learning to identify churn patterns and actionable retention insights.
+
+**Language:** `Jupyter Notebook`
+
+⭐ 1 | 🍴 0
 
 ---
 
