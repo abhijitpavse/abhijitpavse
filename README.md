@@ -98,6 +98,16 @@
 
 <!--START_SECTION:repos-->
 
+### 📦 [movie-insights-360](https://github.com/abhijitpavse/movie-insights-360)
+
+End-to-end Movie Analytics project using Python, MySQL, Excel and Power BI to uncover movie trends, ratings, genres, popularity and audience insights.
+
+**Language:** `Not specified`
+
+⭐ 0 | 🍴 0
+
+---
+
 ### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
 
 No description
@@ -113,16 +123,6 @@ No description
 End-to-end telecom customer churn analysis using Python, EDA, customer segmentation and machine learning to identify churn patterns and actionable retention insights.
 
 **Language:** `Jupyter Notebook`
-
-⭐ 1 | 🍴 0
-
----
-
-### 📦 [ABHI-RUN](https://github.com/abhijitpavse/ABHI-RUN)
-
-No description
-
-**Language:** `HTML`
 
 ⭐ 1 | 🍴 0
 
