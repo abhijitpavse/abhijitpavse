@@ -98,6 +98,16 @@
 
 <!--START_SECTION:repos-->
 
+### 📦 [covid-19-india-vaccination-data-analytics](https://github.com/abhijitpavse/covid-19-india-vaccination-data-analytics)
+
+COVID-19 India Vaccination Data Analytics project using MySQL, Python, Excel and Power BI.
+
+**Language:** `Not specified`
+
+⭐ 0 | 🍴 0
+
+---
+
 ### 📦 [movie-insights-360](https://github.com/abhijitpavse/movie-insights-360)
 
 End-to-end Movie Analytics project using Python, MySQL, Excel and Power BI to uncover movie trends, ratings, genres, popularity and audience insights.
@@ -113,16 +123,6 @@ End-to-end Movie Analytics project using Python, MySQL, Excel and Power BI to un
 No description
 
 **Language:** `Python`
-
-⭐ 1 | 🍴 0
-
----
-
-### 📦 [telco-customer-churn-analysis](https://github.com/abhijitpavse/telco-customer-churn-analysis)
-
-End-to-end telecom customer churn analysis using Python, EDA, customer segmentation and machine learning to identify churn patterns and actionable retention insights.
-
-**Language:** `Jupyter Notebook`
 
 ⭐ 1 | 🍴 0
 
