@@ -98,6 +98,16 @@
 
 <!--START_SECTION:repos-->
 
+### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
+
+No description
+
+**Language:** `Python`
+
+⭐ 1 | 🍴 0
+
+---
+
 ### 📦 [Test](https://github.com/abhijitpavse/Test)
 
 No description
@@ -113,16 +123,6 @@ No description
 COVID-19 India Vaccination Data Analytics project using MySQL, Python, Excel and Power BI.
 
 **Language:** `Not specified`
-
-⭐ 0 | 🍴 0
-
----
-
-### 📦 [movie-insights-360](https://github.com/abhijitpavse/movie-insights-360)
-
-End-to-end Movie Analytics project using Python, MySQL, Excel and Power BI to uncover movie trends, ratings, genres, popularity and audience insights.
-
-**Language:** `Jupyter Notebook`
 
 ⭐ 0 | 🍴 0
 
