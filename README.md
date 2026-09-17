@@ -102,9 +102,19 @@
 
 No description
 
-**Language:** `Python`
+**Language:** `Jupyter Notebook`
 
 ⭐ 1 | 🍴 0
+
+---
+
+### 📦 [python-data-analytics](https://github.com/abhijitpavse/python-data-analytics)
+
+Python programming and Data Analytics practice — from fundamentals and problem-solving to NumPy, Pandas, data manipulation, and visualization.
+
+**Language:** `Python`
+
+⭐ 0 | 🍴 0
 
 ---
 
@@ -115,16 +125,6 @@ No description
 **Language:** `Not specified`
 
 ⭐ 2 | 🍴 0
-
----
-
-### 📦 [covid-19-india-vaccination-data-analytics](https://github.com/abhijitpavse/covid-19-india-vaccination-data-analytics)
-
-COVID-19 India Vaccination Data Analytics project using MySQL, Python, Excel and Power BI.
-
-**Language:** `Not specified`
-
-⭐ 0 | 🍴 0
 
 ---
 
