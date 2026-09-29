@@ -98,6 +98,26 @@
 
 <!--START_SECTION:repos-->
 
+### 📦 [sql](https://github.com/abhijitpavse/sql)
+
+No description
+
+**Language:** `Not specified`
+
+⭐ 0 | 🍴 0
+
+---
+
+### 📦 [sql-practical](https://github.com/abhijitpavse/sql-practical)
+
+MySQL-based Hospital Management System implementing relational database design, stored procedures, functions, triggers, transactions, exception handling, error logging, billing, payments, room allocation, and complete patient workflow management.
+
+**Language:** `Not specified`
+
+⭐ 0 | 🍴 0
+
+---
+
 ### 📦 [python-data-analytics](https://github.com/abhijitpavse/python-data-analytics)
 
 Python programming and Data Analytics practice — from fundamentals and problem-solving to NumPy, Pandas, data manipulation, and visualization.
@@ -105,26 +125,6 @@ Python programming and Data Analytics practice — from fundamentals and problem
 **Language:** `Python`
 
 ⭐ 1 | 🍴 0
-
----
-
-### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
-
-No description
-
-**Language:** `Jupyter Notebook`
-
-⭐ 1 | 🍴 0
-
----
-
-### 📦 [Test](https://github.com/abhijitpavse/Test)
-
-No description
-
-**Language:** `Not specified`
-
-⭐ 2 | 🍴 0
 
 ---
 
