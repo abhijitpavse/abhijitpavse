@@ -98,16 +98,6 @@
 
 <!--START_SECTION:repos-->
 
-### 📦 [sql-practical](https://github.com/abhijitpavse/sql-practical)
-
-A scenario-based Hospital Management System built with MySQL, featuring relational database design, stored procedures, functions, triggers, transactions, exception handling, error logging, billing, payments, and complete patient workflow management.
-
-**Language:** `Not specified`
-
-⭐ 0 | 🍴 0
-
----
-
 ### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
 
 No description
@@ -115,6 +105,16 @@ No description
 **Language:** `Jupyter Notebook`
 
 ⭐ 1 | 🍴 0
+
+---
+
+### 📦 [sql-practical](https://github.com/abhijitpavse/sql-practical)
+
+A scenario-based Hospital Management System built with MySQL, featuring relational database design, stored procedures, functions, triggers, transactions, exception handling, error logging, billing, payments, and complete patient workflow management.
+
+**Language:** `Not specified`
+
+⭐ 0 | 🍴 0
 
 ---
 
