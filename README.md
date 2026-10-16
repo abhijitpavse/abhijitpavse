@@ -8,9 +8,7 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Navi_Mumbai,_India-0e75b6?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_B.Tech_CSBS-Bharati_Vidyapeeth-6f42c1?style=flat-square" alt="Education"/>
-  <img src="https://img.shields.io/badge/💼_Open_to_Work-00C853?style=flat-square" alt="Open to work"/>
+  
   <a href="https://github.com/abhijitpavse">
     <img src="https://komarev.com/ghpvc/?username=abhijitpavse&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
   </a>
