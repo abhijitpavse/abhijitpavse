@@ -102,6 +102,16 @@ I'm a Computer Science graduate (B.Tech, CSBS) and aspiring **Data Engineer** wi
 
 <!--START_SECTION:repos-->
 
+### 📦 [sql-practical](https://github.com/abhijitpavse/sql-practical)
+
+A scenario-based Hospital Management System built with MySQL, featuring relational database design, stored procedures, functions, triggers, transactions, exception handling, error logging, billing, payments, and complete patient workflow management.
+
+**Language:** `Not specified`
+
+⭐ 0 | 🍴 0
+
+---
+
 ### 📦 [python_programs](https://github.com/abhijitpavse/python_programs)
 
 No description
@@ -119,16 +129,6 @@ Python programming and Data Analytics practice — from fundamentals and problem
 **Language:** `Python`
 
 ⭐ 1 | 🍴 0
-
----
-
-### 📦 [sql-practical](https://github.com/abhijitpavse/sql-practical)
-
-A scenario-based Hospital Management System built with MySQL, featuring relational database design, stored procedures, functions, triggers, transactions, exception handling, error logging, billing, payments, and complete patient workflow management.
-
-**Language:** `Not specified`
-
-⭐ 0 | 🍴 0
 
 ---
 
