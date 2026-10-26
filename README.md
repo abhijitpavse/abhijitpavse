@@ -204,15 +204,12 @@ A browser-based endless runner game built with web technologies.
 
 </div>
 
-### 🧩 LeetCode
+### ⚔️ Problem-Solving Arena
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=FFA116&center=true&vCenter=true&width=520&height=35&lines=One+problem+at+a+time;Building+logic.+Building+speed.;Consistency+beats+intensity" alt="LeetCode tagline"/> <a href="https://leetcode.com/u/abhijitpavse/"> <img src="https://leetcard.jacoblin.cool/abhijitpavse?theme=catppuccin&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode stats card"/> </a> <br/> <img src="https://img.shields.io/badge/Solved-6-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" alt="Solved"/> <img src="https://img.shields.io/badge/Easy-5-00B8A3?style=for-the-badge&labelColor=1a1a1a" alt="Easy"/> <img src="https://img.shields.io/badge/Medium-1-FFC01E?style=for-the-badge&labelColor=1a1a1a" alt="Medium"/> <img src="https://img.shields.io/badge/Hard-0-EF4743?style=for-the-badge&labelColor=1a1a1a" alt="Hard"/> <br/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Array-1a1a1a?style=flat-square&logoColor=white&color=00B8A3" alt="Array"/> <img src="https://img.shields.io/badge/Sorting-1a1a1a?style=flat-square&color=00B8A3" alt="Sorting"/> <img src="https://img.shields.io/badge/Two_Pointers-1a1a1a?style=flat-square&color=00B8A3" alt="Two Pointers"/> <img src="https://img.shields.io/badge/Hash_Table-1a1a1a?style=flat-square&color=FFC01E" alt="Hash Table"/> <img src="https://img.shields.io/badge/Binary_Search-1a1a1a?style=flat-square&color=FFC01E" alt="Binary Search"/> <img src="https://img.shields.io/badge/Bit_Manipulation-1a1a1a?style=flat-square&color=FFC01E" alt="Bit Manipulation"/>
 
-<div align="center">
+<br/><br/>
 
-<a href="https://leetcode.com/u/abhijitpavse/">
-  <img src="https://leetcard.jacoblin.cool/abhijitpavse?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
-</a>
-
-</div>
+<a href="https://leetcode.com/u/abhijitpavse/"> <img src="https://img.shields.io/badge/Follow_my_LeetCode_journey_→-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/> </a> </div>
 
 ---
 
