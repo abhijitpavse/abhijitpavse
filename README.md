@@ -158,19 +158,11 @@ Python programming and Data Analytics practice — from fundamentals and problem
 ---
 
 ## 🎮 Featured Project — ABHI RUN
+<div align="center"> <a href="https://abhijitpavse.github.io/ABHI-RUN/"> <img src="https://raw.githubusercontent.com/abhijitpavse/ABHI-RUN/main/preview.gif" alt="ABHI RUN gameplay" width="640"/> </a> <p><b>An endless runner with a pixel-art human, a live day and night cycle, and a real-time clock, built with pure HTML5 Canvas and JavaScript.</b></p> <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/github/stars/abhijitpavse/ABHI-RUN?style=flat-square&logo=github" alt="Stars"/> <img src="https://img.shields.io/github/last-commit/abhijitpavse/ABHI-RUN?style=flat-square" alt="Last commit"/>
 
-<div align="center">
+<br/><br/>
 
-A browser-based endless runner game built with web technologies.
-
-<a href="https://abhijitpavse.github.io/ABHI-RUN/">
-  <img src="https://img.shields.io/badge/▶_PLAY_NOW-ABHI_RUN-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Play ABHI RUN"/>
-</a>
-<a href="https://github.com/abhijitpavse/ABHI-RUN">
-  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/>
-</a>
-
-</div>
+<a href="https://abhijitpavse.github.io/ABHI-RUN/"> <img src="https://img.shields.io/badge/▶_PLAY_NOW-ABHI_RUN-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Play ABHI RUN"/> </a> <a href="https://github.com/abhijitpavse/ABHI-RUN"> <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/> </a> </div>
 
 ---
 
