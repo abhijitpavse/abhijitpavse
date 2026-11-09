@@ -1,0 +1,37 @@
+name: Profile Cards
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"     # every 6 hours
+  workflow_dispatch:           # lets you run it manually the first time
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate cards
+        run: python scripts/generate_cards.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          # Optional: add a PROFILE_TOKEN secret (read:user) to count private contributions too
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile cards"
+            git pull --rebase
+            git push
+          fi
