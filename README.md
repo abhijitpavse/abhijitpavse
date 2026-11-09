@@ -146,8 +146,8 @@ No description
 <!--START_SECTION:pinned-->
 <div align="center">
 
-<a href="https://github.com/abhijitpavse/CodeAlpha_StockPortfolio"><img src="assets/pin-1.svg" alt="CodeAlpha_StockPortfolio" width="400"/></a>
-<a href="https://github.com/abhijitpavse/Customer-Shopping-Behavior-Analysis-using-Python-PostgreSQL-Power-BI"><img src="assets/pin-2.svg" alt="Customer-Shopping-Behavior-Analysis-using-Python-PostgreSQL-Power-BI" width="400"/></a>
+<a href="https://github.com/abhijitpavse/Customer-Shopping-Behavior-Analysis-using-Python-PostgreSQL-Power-BI"><img src="assets/pin-1.svg" alt="Customer-Shopping-Behavior-Analysis-using-Python-PostgreSQL-Power-BI" width="400"/></a>
+<a href="https://github.com/abhijitpavse/telco-customer-churn-analysis"><img src="assets/pin-2.svg" alt="telco-customer-churn-analysis" width="400"/></a>
 
 </div>
 <!--END_SECTION:pinned-->
