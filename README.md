@@ -106,7 +106,7 @@ I'm a Computer Science graduate (B.Tech, CSBS) and aspiring **Data Engineer** wi
 
 Python programming and Data Analytics practice — from fundamentals and problem-solving to NumPy, Pandas, data manipulation, and visualization.
 
-**Language:** `Python`
+**Language:** `Jupyter Notebook`
 
 ⭐ 1 | 🍴 0
 
